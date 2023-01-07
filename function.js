@@ -187,3 +187,4 @@ const langs = [
     background(0);
     reset();
    }
+<!--Coded by @ErvinGh88-->
